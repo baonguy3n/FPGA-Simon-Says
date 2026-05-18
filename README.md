@@ -50,7 +50,7 @@ The system generates pseudo-random LED sequences, displays them to the player, a
 
 The FSM controls the entire game progression and synchronization between modules.
 
-## FSM Diagram
+![FSM Diagram](diagram-export-5-18-2026-4_48_06-PM.png)
 
 ### FSM States
 
